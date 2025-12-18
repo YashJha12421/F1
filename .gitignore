@@ -1,31 +1,14 @@
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Virtual environments
-venv/
-env/
-
-# Environment variables
+# Environments
 .env
-
-# ML artifacts
-*.pkl
-*.joblib
-*.h5
-
-# Data
-data/
-*.csv
+venv/
 
 # OS
 .DS_Store
 Thumbs.db
-
-# IDE
-.vscode/
